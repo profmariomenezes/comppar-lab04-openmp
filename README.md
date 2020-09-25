@@ -5,7 +5,7 @@ Repositório para as atividades de programação OpenMP -
 
 ### Somatório de números
 
-Faça um programa que some todos os números de um vetor de tamanho $2^{30}$. Garanta que os números neste vetor sejam sempre os mesmos para garantir o mesmo resultado final!
+Faça um programa que some todos os números de um vetor de tamanho 2^{30}. Garanta que os números neste vetor sejam sempre os mesmos para garantir o mesmo resultado final!
 
 Construa 2 versões em paralelo utilizando #pragma omp for que soma parcialmente os valores e:
 
@@ -14,7 +14,7 @@ Construa 2 versões em paralelo utilizando #pragma omp for que soma parcialmente
 
 Faça uma comparação de tempo de execução com 1, 2, 3, 4, 5 e 6 threads, para cada versão. Construa uma tabela contendo o tempo médio de 10 execuções para cada versão e sua respectiva quantidade de threads.
 
-Faça um gráfico que mostre a escalabilidade forte (mínimo de $2^{28}$, com garantia de todos os dados em memória) e escalabilidade fraca (use $2^{30}$ como quantidade máxima de dados) do Speedup para cada quantidade de threads utilizada.
+Faça um gráfico que mostre a escalabilidade forte (mínimo de 2^{28}, com garantia de todos os dados em memória) e escalabilidade fraca (use 2^{30} como quantidade máxima de dados) do Speedup para cada quantidade de threads utilizada.
 
 Entregue os códigos fontes e as tabelas no formato Excel, onde cada aba da planilha é relativa a uma versão diferente de código com sua respectiva tabela de execução e seu respectivo gráfico de speedup.
 
