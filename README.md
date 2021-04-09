@@ -63,6 +63,7 @@ Links Medição de Desempenho
 Faça o código da integral pela regra do trapézio mostrado nos slides de Introdução ao OpenMP (
 
 04 - Programacao de Memoria Compartilhada com OpenMP - ch5), na página 24.
+Implemente as diversas melhorias no seu código, até chegar na página 38 (com **reduction** )
 
 Submeta o seu código, com o seu nome no início do código em comentário.
 
