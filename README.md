@@ -87,6 +87,8 @@ Faça um gráfico que mostre a escalabilidade forte (mínimo de 2<sup>28</sup>, 
 
 Entregue os códigos fontes e as tabelas no formato Excel, onde cada aba da planilha é relativa a uma versão diferente de código com sua respectiva tabela de execução e seu respectivo gráfico de speedup.
 
+Submeta prints da execução do seu código.
+
 ## Lab 3 -  - Nova multiplicação de matrizes
 
 Faça um programa de multiplicação de matrizes. Fique atento a um bom uso de cache (L1/L2)
@@ -97,6 +99,8 @@ Faça uma comparação de tempo de execução com 1, 2, 3, 4, 5 e 6 threads, par
 
 Faça um gráfico que mostre a escalabilidade do Speedup para cada quantidade de threads utilizada.
 
-Entregue os códigos fontes e as tabelas no formato Excel, onde cada aba da planilha é relativa a uma versão diferente de código com sua respectiva tabela de execução .
+Entregue os códigos fontes e as tabelas no formato Excel, onde cada aba da planilha é relativa a uma versão diferente de código com sua respectiva tabela de execução.
+
+Submeta também os prints da execução.
 
 
